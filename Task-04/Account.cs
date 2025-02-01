@@ -2,8 +2,8 @@ namespace Task_04;
 
 public class Account
 {
-    public string Name { get; set; }
-    public double Balance { get; set; }
+    protected string Name { get; set; }
+    protected double Balance { get; set; }
 
     public Account(string Name = "Unnamed Account", double Balance = 0.0)
     {
@@ -29,5 +29,15 @@ public class Account
             return true;
         }
         return false;
+    }
+    
+    public override string ToString()
+    {
+        return $"[Account: {Name}: ${Balance:F2}]";
+    }
+
+    public static Account operator +(Account lhs, Account rhs)
+    {
+        return new Account("Sum Account", lhs.Balance + rhs.Balance);
     }
 }
