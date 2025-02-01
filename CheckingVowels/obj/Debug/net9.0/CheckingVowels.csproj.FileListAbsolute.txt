@@ -1,0 +1,15 @@
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\bin\Debug\net9.0\CheckingVowels.exe
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\bin\Debug\net9.0\CheckingVowels.deps.json
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\bin\Debug\net9.0\CheckingVowels.runtimeconfig.json
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\bin\Debug\net9.0\CheckingVowels.dll
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\bin\Debug\net9.0\CheckingVowels.pdb
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\CheckingVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\CheckingVowels.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\CheckingVowels.AssemblyInfo.cs
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\CheckingVowels.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\CheckingVowels.sourcelink.json
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\CheckingVowels.dll
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\refint\CheckingVowels.dll
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\CheckingVowels.pdb
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\CheckingVowels.genruntimeconfig.cache
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\CheckingVowels\obj\Debug\net9.0\ref\CheckingVowels.dll

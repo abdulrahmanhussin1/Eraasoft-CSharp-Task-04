@@ -1,0 +1,15 @@
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\bin\Debug\net9.0\Task-04.exe
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\bin\Debug\net9.0\Task-04.deps.json
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\bin\Debug\net9.0\Task-04.runtimeconfig.json
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\bin\Debug\net9.0\Task-04.dll
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\bin\Debug\net9.0\Task-04.pdb
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\Task-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\Task-04.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\Task-04.AssemblyInfo.cs
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\Task-04.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\Task-04.sourcelink.json
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\Task-04.dll
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\refint\Task-04.dll
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\Task-04.pdb
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\Task-04.genruntimeconfig.cache
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\Task-04\obj\Debug\net9.0\ref\Task-04.dll

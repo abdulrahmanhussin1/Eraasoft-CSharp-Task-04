@@ -1,0 +1,15 @@
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\bin\Debug\net9.0\CheckingDuplicateNumbers.exe
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\bin\Debug\net9.0\CheckingDuplicateNumbers.deps.json
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\bin\Debug\net9.0\CheckingDuplicateNumbers.runtimeconfig.json
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\bin\Debug\net9.0\CheckingDuplicateNumbers.dll
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\bin\Debug\net9.0\CheckingDuplicateNumbers.pdb
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\CheckingDuplicateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\CheckingDuplicateNumbers.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\CheckingDuplicateNumbers.AssemblyInfo.cs
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\CheckingDuplicateNumbers.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\CheckingDuplicateNumbers.sourcelink.json
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\CheckingDuplicateNumbers.dll
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\refint\CheckingDuplicateNumbers.dll
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\CheckingDuplicateNumbers.pdb
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\CheckingDuplicateNumbers.genruntimeconfig.cache
+C:\Users\abdul\source\repos\EraaSoft\Tasks\Task-04\ CheckingDuplicateNumbers\obj\Debug\net9.0\ref\CheckingDuplicateNumbers.dll
