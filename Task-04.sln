@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-04", "Task-04\Task-04.csproj", "{5A40068C-4F12-4BB7-AB34-605C39373C8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckingDuplicateNumbers", " CheckingDuplicateNumbers\CheckingDuplicateNumbers.csproj", "{02A9680D-EF20-4CED-8349-BBBE95B1C2F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckingVowels", "CheckingVowels\CheckingVowels.csproj", "{90DC42D6-E06C-4387-95AC-30A432D0533C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{5A40068C-4F12-4BB7-AB34-605C39373C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A40068C-4F12-4BB7-AB34-605C39373C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A40068C-4F12-4BB7-AB34-605C39373C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A9680D-EF20-4CED-8349-BBBE95B1C2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A9680D-EF20-4CED-8349-BBBE95B1C2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A9680D-EF20-4CED-8349-BBBE95B1C2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A9680D-EF20-4CED-8349-BBBE95B1C2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DC42D6-E06C-4387-95AC-30A432D0533C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DC42D6-E06C-4387-95AC-30A432D0533C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DC42D6-E06C-4387-95AC-30A432D0533C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DC42D6-E06C-4387-95AC-30A432D0533C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
